@@ -102,3 +102,17 @@ python -m twine check dist/*
 ```
 
 PyPI/binary users still need a compatible system MPI runtime.
+
+# References
+
+If you want to cite this method, please use the following reference. 
+
+```bibtex
+@misc{chen_parallel_joint_symbolic_encoding,
+  title        = {Parallel Joint Symbolic Encoding of Time Series},
+  author       = {Chen, Xinye},
+  howpublished = {Under review in IJPP},
+  note         = {To appear; experimental code repository}
+}
+```
+
